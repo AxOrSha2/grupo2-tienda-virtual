@@ -1,0 +1,34 @@
+@media (max-width: 576px) {
+    .checkbox {
+        margin-bottom: 3.5%;
+    }
+}
+
+@media (max-width: 768px) {
+    .checkbox {
+        margin-bottom: 5.5%;
+    }
+}
+
+
+.checkbox {
+    margin-bottom: 4.3%;
+}
+
+.parallax {
+    background-image: url('../assets/img/bg.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg{
+    background-color: rgba(0, 0, 0, 0.171);
+    height: 100% !important;
+}
+
+.copy{
+    color: rgba(255, 255, 255, 0.808) !important;
+}
